@@ -66,7 +66,3 @@ Un intérprete para un pequeño lenguaje funcional con soporte para funciones de
 - **Closures**: Las funciones capturan el entorno en el que se definen.
 - **Recursión mutua**: `rec` utiliza `cons-rec-env` para vincular variables en un entorno compartido.
 
----
-
-## Licencia
-MIT License. Ver [LICENSE](LICENSE) para más detalles.
